@@ -7,7 +7,7 @@
 ### Credits
 VanillaOS: <a href="https://vanillaos.org" target="_blank" rel="noopener">**Website**</a>
 <br>Flathub: <a href="https://flathub.org" target="_blank" rel="noopener">**Website**</a></br>
-<br1>Apps: Discord, Spotify, Viber and Microsoft Visual Studio Code</br1>
+<br1>Apps: Firefox, Discord, Spotify, Viber and Microsoft Visual Studio Code</br1>
 
 ## Get the iso from:
 * ISO page: <a href="https://github.com/Vanilla-OS/os/releases/tag/22.10-r5" target="_blank" rel="noopener">/releases/</a>
