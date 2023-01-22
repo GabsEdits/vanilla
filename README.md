@@ -18,13 +18,16 @@ Linux: <a href="https://github.com/balena-io/etcher/releases/download/v1.10.2/ba
 <br> Mac: <a href="https://github.com/balena-io/etcher/releases/download/v1.10.2/balenaEtcher-1.10.2.dmg?d_id=3a098830-5af4-4dff-bede-95937ba30729&s_id=1671808440901" target="_blank" rel="noopener">Download</a>
 ## Install
 ```
-git clone https://github.com/GabsEdits/vanilla/
+apx install git
+```
+```
+apx run git clone https://github.com/GabsEdits/vanilla/
 ```
 ```
 cd vanilla
 ```
 ```
-sudo sh ./apps.sh
+sh ./apps.sh
 ```
 
 <div align="center">
