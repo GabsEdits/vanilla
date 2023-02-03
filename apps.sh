@@ -1,6 +1,4 @@
-if [[ $EUID -ne 0 ]]; then
-  echo "Hi, Welcome to my Vanilla install we are going to get started in any moment..." 2>&1
-fi
+notify-send "The installation well start soon..."
 # Install all the apps
 flatpak install flathub org.mozilla.firefox
 flatpak install flathub com.viber.Viber
