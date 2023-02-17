@@ -3,9 +3,7 @@ notify-send "The installation well start soon..."
 flatpak install flathub org.mozilla.firefox
 flatpak install flathub com.viber.Viber
 flatpak install flathub com.discordapp.Discord
-flatpak install flathub com.spotify.Client
-flatpak install flathub com.visualstudio.code-oss
-
+flatpak install flathub com.jetbrains.IntelliJ-IDEA-Community
 # Change hostname
 hostnamectl set-hostname "dell"
 # That's it bc VanillaOS is super optimized out of the box
